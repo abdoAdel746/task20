@@ -7,7 +7,7 @@ import { SingleProduct } from "./components/SingleProduct";
 function App() {
   const Routing = createBrowserRouter([
     {
-      basename: "/",
+      basename: "/task20",
       path: "/",
       element: <Layout />,
       children: [
