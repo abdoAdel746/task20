@@ -1,0 +1,152 @@
+ [
+  {
+    "id": 1,
+    "img_src": "d.png",
+    "name": "man hoodie 1",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eumearum commodi",
+    "size": "s",
+    "price": 500,
+    "type": "white",
+    "category": "men"
+  },
+  {
+    "id": 2,
+    "img_src": "w.png",
+    "name": "woman jacket 1",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eumearum commodi",
+    "size": "m",
+    "price": 200,
+    "type": "black",
+    "category": "kids"
+  },
+  {
+    "id": 3,
+    "img_src": "d.png",
+    "name": "kid hoodie 1",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eumearum commodi",
+    "size": "l",
+    "price": 100,
+    "type": "white",
+    "category": "kids"
+  },
+  {
+    "id": 4,
+    "img_src": "d.png",
+    "name": "man hoodie 2",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eumearum commodi",
+    "size": "s",
+    "price": 500,
+    "type": "white",
+    "category": "women"
+  },
+  {
+    "id": 5,
+    "img_src": "w.png",
+    "name": "woman jacket 2",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eumearum commodi",
+    "size": "m",
+    "price": 200,
+    "type": "black",
+    "category": "women"
+  },
+  {
+    "id": 6,
+    "img_src": "d.png",
+    "name": "kid hoodie 2",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eumearum commodi",
+    "size": "l",
+    "price": 100,
+    "type": "white",
+    "category": "kids"
+  },
+  {
+    "id": 7,
+    "img_src": "d.png",
+    "name": "man hoodie 3",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eumearum commodi",
+    "size": "s",
+    "price": 500,
+    "type": "white",
+    "category": "men"
+  },
+  {
+    "id": 8,
+    "img_src": "w.png",
+    "name": "woman jacket 3",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eumearum commodi",
+    "size": "m",
+    "price": 200,
+    "type": "black",
+    "category": "women"
+  },
+  {
+    "id": 9,
+    "img_src": "d.png",
+    "name": "kid hoodie 3",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eumearum commodi",
+    "size": "l",
+    "price": 100,
+    "type": "white",
+    "category": "kids"
+  },
+  {
+    "id": 10,
+    "img_src": "d.png",
+    "name": "man hoodie 4",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eumearum commodi",
+    "size": "s",
+    "price": 500,
+    "type": "white",
+    "category": "men"
+  },
+  {
+    "id": 11,
+    "img_src": "w.png",
+    "name": "woman jacket 4",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eumearum commodi",
+    "size": "m",
+    "price": 200,
+    "type": "black",
+    "category": "women"
+  },
+  {
+    "id": 12,
+    "img_src": "d.png",
+    "name": "kid hoodie 4",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eumearum commodi",
+    "size": "l",
+    "price": 100,
+    "type": "white",
+    "category": "kids"
+  },
+  {
+    "id": 13,
+    "img_src": "d.png",
+    "name": "man hoodie 5",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eumearum commodi",
+    "size": "s",
+    "price": 500,
+    "type": "white",
+    "category": "men"
+  },
+  {
+    "id": 14,
+    "img_src": "w.png",
+    "name": "woman jacket 5",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eumearum commodi",
+    "size": "m",
+    "price": 200,
+    "type": "black",
+    "category": "women"
+  },
+  {
+    "id": 15,
+    "img_src": "d.png",
+    "name": "kid hoodie 5",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eumearum commodi",
+    "size": "l",
+    "price": 100,
+    "type": "white",
+    "category": "kids"
+  }
+]
